@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Menu-Gabriela's Salsa Picante</title>
+    <link rel="stylesheet" href="styles.css">
+    <viewport content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div class="menu">
+        <Main>
+            <h1><span class="span1">Gabriela's</span> <span class="span2">Salsa</span> <span class="span3">Picante</span></h1>
+            <i><p>Est. 2024</p></i>
+            <hr>
+            <section>
+                <h2>Menu Principal</h2>
+                <img src="dinner_272186.png">
+                <article class="food">
+                    <p class="plato" id="plato"><span>Platillo de carne de res con salsa verde</span></p><p class="precio" id="precio">$15.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato" id="plato">Platillo de Chicharron en salsa verde</p><p class="precio" id="precio">$15.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato" id="plato">Platillo de carne de res en salsa roja y verde</p><p class="precio" id="precio">$15.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Platillo de Chile Rellenos</p>
+                    <p class="precio">$15.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Tamales</p>
+                    <p class="precio">$2/Tamal</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Birria</p>
+                    <p class="precio">$16.00/lb</p>
+                </article>
+                <article class="food">
+                    <p class="plato">QuesaBirrias</p>
+                    <p class="precio">$10.00/3</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Fajitas Mix</p>
+                    <p class="precio">$17.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Flautas de carne de res y de pollo</p>
+                    <p class="precio">$15.00</p>
+                </article>
+            </section>
+
+            <section>
+                <h2>Postres</h2>
+                <img src="pie_686862.png">
+                <article class="food">
+                    <p class="plato">Champurrado</p>
+                    <p class="precio">$5.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Flanes</p>
+                    <p class="precio">$10.00</p>
+                    
+                </article>
+                <article class="food">
+                    <p class="plato">Jelatina</p>
+                    <p class="precio">$5.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Jelatina Mosaico</p>
+                    <p class="precio">$5.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Agua De Horchata</p>
+                    <p class="precio">$5.00</p>
+                </article>
+                <article class="food">
+                    <p class="plato">Agua de jamaica</p>
+                    <p class="precio">$5.00</p>
+                </article>
+            </section>
+            <section>
+                <hr>
+                <article class="link">
+                    <a href="">>>>Visit Our Website<<<</a>
+                </article>
+            </section>
+        </Main>
+    </div>
+    <footer>
+        <p>© 2024 Gabriela's Salsa Picante. All rights reserved to Francisco Valdez @ FrandWeb INC </p>
+    </footer>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
